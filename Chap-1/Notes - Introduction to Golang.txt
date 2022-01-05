@@ -1,0 +1,45 @@
+Go Lang - Day 1
+---------------
+
+Legacy programming languages like python, C, C++ have some issues.
+ Go solves all those issues because of the following features-
+
+compiled language, not like python which is an interpreted language!!
+
+1) It is strong and statically typed
+2) faster compile time
+3) legacy programming languages have complex typed formats which makes it 
+more complex as they keep upgrading themselves
+
+
+Go Lang syntax
+---------------
+
+# hello world program
+
+package main
+
+ # main function inside main package is going to be our entry point
+
+import {
+	"fmt"
+}
+
+func main(){
+	fmt.Println("Hello, playground")
+}
+
+
+fmt - formatted i/o
+
+
+Day 1 - Learnings 
+------------------
+
+- Why Golang ? (History, background, drawbacks of the other programming langs)
+- Installation and setup
+- Hello World Program
+- Created a github repo to upload files
+- Declare variable - different ways!
+
+
